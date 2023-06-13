@@ -10,7 +10,7 @@ Matrikel-Nr. 20012669
 1.  Installieren Sie eine aktuelle Version von node.js (18.16.0 oder höher) . Zu finden unter https://nodejs.org/en
 2.  Öffnen Sie das Terminal und navigieren Sie in den Ordner (Test 02).
 3.  Geben Sie den Befehl `npm install` ein. Dieser installiert alle notwendigen Module und Abhängigkeiten.
-4.  Geben Sie anschließend den Befehl `npx run start` ein. Ein lokaler Webserver startet unter http://localhost:1234 oder einer ähnlicher Addresse. Öffnen Sie diese Addresse in ihrem Webbrowser.
+4.  Geben Sie anschließend den Befehl `npm run start` ein. Ein lokaler Webserver startet unter http://localhost:1234 oder einer ähnlicher Addresse. Öffnen Sie diese Addresse in ihrem Webbrowser.
 
 ## Veröffentlichung auf dem THB Server
 
