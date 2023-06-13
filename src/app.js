@@ -1,3 +1,8 @@
+/**
+ * Formular Validierung (Test02)
+ * Markus Hassenstein, 2001
+ */
+
 //get the form
 const form = document.getElementById('register');
 
