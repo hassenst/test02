@@ -85,7 +85,12 @@ form.addEventListener('submit', (event) => {
     const [key, input] = entry;
 
     //skip validation for fieldsets & buttons
-    if (!input.willValidate || input.hasAttribute('formnovalidate')) {
+    if (
+      !input.willValidate ||
+      input.hasAttribute('formnovalidate') ||
+      input.type == 'fieldset' ||
+      input.type == 'textarea'
+    ) {
       return;
     }
 
