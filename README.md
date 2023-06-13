@@ -1,4 +1,4 @@
-# Test 02 -Web-Programmierung SS2023
+# Test 02 - Web-Programmierung SS2023
 
 Aufgabe 2: Formular erstellen und validieren
 Erstellt mit Parcel.js (Build Tool) & Tailwind CSS (CSS Framework)
